@@ -1,4 +1,4 @@
-# orm-database
+# Babel - A lightweight version of Slack
 ![build status](https://travis-ci.org/orm-database/orm-database.svg?branch=master)
 
 ## Getting Started
